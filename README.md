@@ -1,5 +1,3 @@
-Hallo, here's what you might be interested in from me:
-
 >Interests:
  1. CyberSecurity (Red Team).
  2. CTFs.
